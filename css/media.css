@@ -85,6 +85,7 @@
         z-index: -1;
         transform: scale(0);
         transition: .5s;
+        padding-top: 40px;
     }
     .nav__menu:hover ~ .nav__list {
         transform: scale(1);
